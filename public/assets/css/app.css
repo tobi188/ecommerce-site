@@ -1,0 +1,103 @@
+.container a{
+    text-decoration: none;
+}
+
+/* MENU  */
+
+.addToCart_Done {
+    text-align: center;
+}
+
+.productLogo {
+    height: 60px;
+    width:60px;
+}
+
+.pres {
+    margin:0 30px;
+}
+
+.alert-content {
+    text-align: center;
+}
+
+.banner-img {
+    width: 100%;
+    height: 400px;
+}
+
+.loginFail {
+    text-align: center;
+    color:red;
+}
+
+.customer_name {
+    width: 50%;
+}   
+
+.crd {
+    float: left;
+    padding-right:10px;
+}
+/* New CSS */
+
+.login-btn , .register-btn{
+    display: inline;
+}
+
+.reg-log , .user_base {
+    padding-left: 180px;
+    padding-top:20px;
+}
+
+.shopping-cart , .search-bar{
+    padding-top:20px;
+}
+
+.search-bar {
+    width: 400px;
+}
+
+.userAccount-btn {
+    float: left;
+}
+
+.dropdown-menu li a {
+    font-size: 16px;
+}
+
+/* master border */
+.border-div {
+    border-bottom: 0.5px solid black;
+}
+/* home.blade.php */
+.favProducts-title {
+    color:#5cb85c;
+}
+.favProducts-show , .favProducts-title{
+    text-align: center;
+}
+
+/* user-info.blade.php */
+
+.user-info {
+    font-size: 18px;
+    width: 30%;
+    text-align: center;
+    margin-top: 30px;
+}
+.user-info_banner{
+    text-align: center;
+    margin: 50px 0;
+    color:#5bc0de;
+}
+
+.form-control {
+    margin:5px 0;
+}
+
+
+/* navbar */
+
+
+
